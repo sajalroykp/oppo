@@ -1,0 +1,149 @@
+@import url('https://fonts.googleapis.com/css?family=Montserrat:400,500,600,700,800,900');
+*{
+	margin: 0px;
+	padding: 0px;
+	font-family: 'Montserrat', sans-serif;
+}
+.container-fluid{
+	width: 100%;
+}
+.contaniar{
+	width: 960px;
+	margin: 0 auto;
+}
+.nav{
+	width: 100%;
+	border-bottom: 1px solid #F5F5F5;
+	padding-bottom: 25px;
+	box-shadow: 1px 0px 0px 2px #F5F5F5;
+}
+.navbar{
+	float: right;
+	width: 40%;
+	margin-top: 47px;
+	font-size: 15px;
+	margin-left: -1px;
+}
+.navbar ul{
+	margin-right: auto;
+}
+.navbar ul li{
+	list-style: none;
+	display: inline-block;
+	margin-right: 20px;
+}
+.navbar ul li a{
+	text-decoration: none;
+	color: #8c8888;
+	padding: 15px;
+	border-radius: 5px;
+	transition: all .4s ease;
+}
+.navbar ul li a:hover{
+	background-color: #008A56;
+	color: #fff;
+}
+.logo{
+	width: 30%;
+	margin-top: 45px ;
+	margin-left: 60px;
+	float: left;
+}
+.logo a img{
+	max-width: 40%;
+}
+.hero_section{
+	padding: 150px 0px;
+	margin: !important;
+}
+.hero_section img{
+	width: 100%;
+	size: cover;
+	margin: 10px 0px;
+}
+.about{
+
+}
+.about h1{
+	color: #333333;
+	font-weight: 700;
+	padding-bottom: 10px;
+
+}
+.about h3{
+	color: #333333;
+	font-weight: 500;
+	padding-bottom: 10px;
+}
+.about p{
+	color: #333333;
+	font-weight: 500;
+	line-height: 28px;
+}
+.col-6{
+	width: 50%;
+	float: left;
+}
+.feature{
+	padding: 150px 0px;
+}
+.feature_one{
+	padding: 20px;
+	margin-bottom: -1px;
+}
+.feature_left h1{
+	padding: 20px;
+	color: #333333;
+	font-weight: 700;
+	padding-bottom: 10px;
+}
+.feature_left h4{
+	color: #333333;
+	font-weight: 500;
+	padding-bottom: 10px;
+	padding-bottom: 10px;
+}
+.feature_left p{
+	color: #333333;
+	font-weight: 500;
+	line-height: 28px;
+	font-size: 12px;
+}
+.feature_one img{
+	padding-bottom: 10px;
+	margin-left: 40px;
+}
+.feature_one img{
+	padding-bottom: 10px;
+}
+.feature_one_img{
+	margin: 20px 0px;
+}
+.feature_two_img{
+	margin-bottom: 60px;
+}
+.feature_four_img{
+	margin-bottom: 75px;
+}
+.feature img{
+	width: 80%;
+	size: cover;
+}
+.subcribe{
+	padding: 35px 0px;
+}
+.overflow{
+	overflow: hidden;
+}
+.subcribe{
+	background-color: #008A56;
+}
+.footer{
+	background-color: #F5F5F5;
+}
+.text_center{
+	text-align: center;
+}
+.padding{
+	padding:25px;
+}
